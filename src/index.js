@@ -1,4 +1,4 @@
-import {TASKS, N_TASKS, N_IMPOSTORS} from gamevariables.js
+const {TASKS, N_TASKS, N_IMPOSTORS} = require('./gamevariables');
 
 const PORT = 4046;
 

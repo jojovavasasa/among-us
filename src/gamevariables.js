@@ -17,3 +17,5 @@ const TASKS = [
 ];
 const N_TASKS = 5;
 const N_IMPOSTORS = 1;
+
+module.exports = { TASKS, N_TASKS, N_IMPOSTORS };
